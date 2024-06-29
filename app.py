@@ -21,6 +21,6 @@ if __name__ == "__main__":
         app,
         host="0.0.0.0",
         port=8000,
-        threads=200,
-        connection_limit=400,
+        threads=300,
+        connection_limit=600,
     )
